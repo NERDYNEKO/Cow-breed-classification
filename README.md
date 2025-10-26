@@ -8,7 +8,11 @@ This dataset consists of over 1214 labeled images of cows . This Cattle Breeds D
 
 📚 **Libraries Needed**
 **Tensorflow** - Used for building and training neural networks and deep learning models
+
 **Numpy**- A Python library for numerical computations.Provides multidimensional arrays (ndarray) and mathematical functions to operate on them.
+
 **matplotlib.pyplot** - Used for data visualization, like plotting graphs.
+
 **Keras**: For simplifying the creation and training of neural networks.
+
 **os** - Provides functions to interact with the operating system.
